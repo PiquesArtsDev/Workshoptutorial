@@ -2,7 +2,7 @@
 
 *A beginner's guide to keeping your notes local, tracking their history, storing a remote copy and using AI to help you work with them.*
 
-This guide is for someone starting from zero. You do not need to know Git, use Obsidian already, or have a GitHub repository. We will set everything up from scratch and explain what each part is for.
+This guide is for someone starting from zero. You do not need to know Git, use Obsidian already, or have a GitHub repository. We will set everything up from scratch and explain what each part is for
 
 ## 1. What are we building?
 
@@ -81,6 +81,9 @@ For example:
 - "Look through my ideas and group related ones together."
 
 ChatGPT is an assistant, not the owner or storage location of your notes. The repository remains the durable record.
+
+This system can also serve as an extension to ChatGPT's built-in memory. By keeping personal knowledge, project history, preferences and important decisions in an organized, persistent repository, ChatGPT can retrieve relevant information when needed rather than relying entirely on its limited conversational memory. This creates a more detailed, user-controlled and portable knowledge base that can grow alongside the user and remain useful even when switching AI assistants.
+
 
 ## 3. What you need before starting
 
